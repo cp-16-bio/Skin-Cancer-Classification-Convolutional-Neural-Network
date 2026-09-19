@@ -1,4 +1,5 @@
 # Skin-Cancer-Classification-Convolutional-Neural-Network
+<img width="1920" height="1281" alt="image" src="[https://github.com/user-attachments/assets/644bc6f9-5464-466c-bbec-fa237293d07a](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Ficons8.com%2Ficon%2Fc30f3wff0kBK%2Fskin-cancer&ved=0CBYQjRxqFwoTCPCE6Yqh-5YDFQAAAAAdAAAAABA3&opi=89978449)" />
 
 ## Overview
 This repository contains a machine learning project focused on skin cancer classification. The data being analyzed is from the **HAM10000 dataset** and consists of dermatoscopic images representing seven different types of skin lesions. The primary objective is to build a convolutional neural network (CNN) model that accurately classifies skin lesions into their respective diagnostic categories. By supporting automated and more consistent lesion classification, this model may contribute to earlier detection and assist in the diagnosis of skin cancer. 
